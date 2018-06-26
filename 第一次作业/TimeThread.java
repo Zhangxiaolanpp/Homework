@@ -1,5 +1,5 @@
 /*
- * author:ZhaoYunLong(赵云龙)
+
  */
 public class TimeThread extends Thread { 
 	public void run() { 
